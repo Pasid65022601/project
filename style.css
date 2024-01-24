@@ -1,0 +1,137 @@
+.nav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    box-shadow: 0 2px 0px 0 rgba(0,0,0,.2);
+  }
+  .nav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .CRM {
+    font-size: 40px;
+    margin-left: 5%;
+  }
+  .w {
+    margin-left: 5%;
+    margin-top: -20px;
+    font-size: 20px;
+  }
+  .fl {
+    display: flex;
+  }
+  .fl > div {
+    background-color: #f1f1f1;
+    margin-left: 5%;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px rgba(2,2,2,.2);
+    border-radius: 10%;
+    width: 200px;
+  }
+  .img{
+    width: 100px;
+    padding: 10px;
+    margin:top;
+  }
+  .fl2 {
+    margin: 30px;
+    width: 10000px;
+    display: flex;
+  }
+  .fl2 > div {
+    display: grid; 
+    margin-left: 5%;
+    padding: 50px;
+    margin: 35px;
+    font-size: 20px;
+    text-align: left;
+    box-shadow: 2px 2px 2px 2px rgba(2,2,2,.2);
+    border-radius: 30px;
+    width: 300px;
+    height: 40px;
+  }
+  .grid{
+    text-align: right;
+    margin: -10px;
+  }
+  .grid2{
+    padding-left: 30px;
+  }
+  .box{
+    background-color: pink;
+    color: red;
+  }
+  .box > p{
+    padding-left: 10%;
+  }
+  .box2{
+    background-color: yellow;
+    color: brown;
+  }
+  .box2 > p{
+    padding-left: 10%;
+  }
+  .box3{
+    background-color: lime;
+    color: rgb(35, 138, 35);
+  }
+  .box3 > p{
+    padding-left: 10%;
+  }
+  .fl3{
+    display: flex;
+  }
+  .fl3 > div {
+    display: grid;
+    background-color: white;
+    border-left: 4px solid green;
+    margin: 50px;
+    margin-left: 50px;
+    padding: 20px;
+    font-size: 15px;
+    box-shadow: 2px 2px 2px 2px rgba(2,2,2,.2);
+    width: 1000px;
+    height: 225px;
+    display: block;
+  }
+  .edit{
+    background-color: white;
+    text-align: right;
+  }
+  .fl4{
+    display: flex;
+  }
+  .fl4 > div {
+    background-color: white;
+    border-left: 4px solid green;
+    margin: 50px;
+    margin-left: 50px;
+    padding: 20px;
+    font-size: 15px;
+    box-shadow: 2px 2px 2px 2px rgba(2,2,2,.2);
+    width: 1000px;
+    height: 225px;
+  }
+  .fl5{
+    display: flex;
+  }
+  .fl5 > div {
+    background-color: white;
+    border-left: 4px solid green;
+    margin: 50px;
+    margin-left: 50px;
+    padding: 20px;
+    font-size: 15px;
+    box-shadow: 2px 2px 2px 2px rgba(2,2,2,.2);
+    width: 225px;
+    height: 225px;
+  }
